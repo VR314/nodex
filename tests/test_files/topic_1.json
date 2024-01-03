@@ -1,0 +1,8 @@
+{
+  "name": "topic_1",
+  "description": "This is a topic",
+  "payload_schema": {
+    "timestamp": "string",
+    "value": "number"
+  }
+}

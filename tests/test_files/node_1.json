@@ -1,0 +1,18 @@
+{
+  "project": "test_project",
+  "name": "node_1",
+  "language": "python",
+  "command": "python3 nodes/node_1/node_1.py",
+  "runtime_args": [],
+  "init_port": 44431,
+  "topics": [
+    {
+      "name": "topic_1",
+      "direction": "publish"
+    },
+    {
+      "name": "topic_2",
+      "direction": "subscribe"
+    }
+  ]
+}
